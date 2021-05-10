@@ -1,1 +1,2 @@
-# Data-Structures-HW2
+# An Electric Circuit
+You have an input.txt file. This text file has 2 columns which keep the group and value (ohm) of the resistors respectively in an electric circuit. The first column indicates the group of the resistor in the circuit. The second column indicates the value (ohm) of the resistor in the circuit. Each line indicates each resistor in the circuit. You design and implement an electric circuit using this file’s resistor info on a single linked list.
